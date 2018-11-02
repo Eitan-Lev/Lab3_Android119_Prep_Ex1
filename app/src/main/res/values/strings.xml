@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Excersize_1</string>
+    <string name="goodbye_world">Goodbye World</string>
+    <string name="change_string">Change String</string>
+</resources>
